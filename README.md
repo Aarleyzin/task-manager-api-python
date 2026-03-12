@@ -20,7 +20,7 @@ Este projeto demonstra a criação de endpoints CRUD (Create, Read, Update, Dele
 * **SQLite:** Banco de dados leve e embutido (configurável para outros bancos).
 * **python-dotenv:** Para gerenciar variáveis de ambiente.
 
-## ⚙️ Configuração e Execução
+##  Configuração e Execução
 
 Siga os passos abaixo para configurar e executar o projeto em sua máquina local.
 
